@@ -8,3 +8,5 @@ def bogo_sort(numbers):
 
 if __name__ == '__main__':
     print(bogo_sort([1, 5, 3, 2, 6]))
+
+# python bogo.py
